@@ -10,6 +10,12 @@ using System.Windows.Forms;
 
 namespace COMP123_M2020_FinalExam
 {
+ /**
+ * File Name: GenerateNameForm.cs
+ * Author: Mingxin Cong
+ * Student ID: 301130476
+ * Changes Made: created the file and added a few methods
+ */
     public partial class GenerateNameForm : Form
     {
         public GenerateNameForm()

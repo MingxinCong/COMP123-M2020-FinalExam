@@ -12,6 +12,12 @@ namespace COMP123_M2020_FinalExam
 {
     public partial class FinalForm : Form
     {
+ /**
+ * File Name: FinalForm.cs
+ * Author: Mingxin Cong
+ * Student ID: 301130476
+ * Changes Made: created the file and finish at the same time
+ */
         public RaceAndClassForm previousForm { get; set; }
 
         public FinalForm()

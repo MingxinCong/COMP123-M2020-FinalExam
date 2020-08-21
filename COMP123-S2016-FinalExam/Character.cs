@@ -2,7 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+/**
+ * File Name: Character.cs
+ * Author: Mingxin Cong
+ * Student ID: 301130476
+ * Changes Made: added a few properties
+ */
 namespace COMP123_M2020_FinalExam
 {
     public class Character
