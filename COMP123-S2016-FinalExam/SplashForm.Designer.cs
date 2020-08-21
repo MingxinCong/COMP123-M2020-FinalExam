@@ -1,5 +1,11 @@
 ﻿namespace COMP123_M2020_FinalExam
-{
+{/**
+ * File Name: SplashForm.cs
+ * Author: Mingxin Cong
+ * Student ID: 301130476
+ * Changes Made: added timer and various properties
+ */
+    // SplashForm is responsible for showing the starting screen for 3 seconds
     partial class SplashForm
     {
         /// <summary>

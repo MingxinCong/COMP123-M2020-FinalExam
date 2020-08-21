@@ -21,7 +21,7 @@ namespace COMP123_M2020_FinalExam
         {
             InitializeComponent();
         }
-
+        // event handler for timer elapse
         private void splashFormTimer_Tick(object sender, EventArgs e)
         {
             Program.generateNameForm.Show();

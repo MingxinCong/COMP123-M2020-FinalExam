@@ -29,6 +29,7 @@ namespace COMP123_M2020_FinalExam
             Application.SetCompatibleTextRenderingDefault(false);
             generateNameForm = new GenerateNameForm();
             splashForm = new SplashForm();
+            character.Race = "Human";
             Application.Run(splashForm);
         }
     }

@@ -39,7 +39,8 @@ namespace COMP123_M2020_FinalExam
         {
             RadioButton selectedRace = (RadioButton)sender;
 
-            this._selectedRace = selectedRace.Text;
+            Program.character.Race = this._selectedRace = selectedRace.Text;
+            
         }
 
         private void NextButton_Click(object sender, EventArgs e)
