@@ -6,6 +6,12 @@ using System.Windows.Forms;
 
 namespace COMP123_M2020_FinalExam
 {
+    /**
+ * File Name: Program.cs
+ * Author: Mingxin Cong
+ * Student ID: 301130476
+ * Changes Made: added various Form static fields
+ */
     public static class Program
     {
         public static Character character = new Character();

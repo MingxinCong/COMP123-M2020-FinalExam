@@ -7,7 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/**
+ * File Name: SplashForm.cs
+ * Author: Mingxin Cong
+ * Student ID: 301130476
+ * Changes Made: created the file and finish at the same time
+ */
 namespace COMP123_M2020_FinalExam
 {
     public partial class SplashForm : Form
